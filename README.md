@@ -1,4 +1,4 @@
-# go-rabbitmq-docker
+# Go Rabbitmq Docker
 
 This repository showcases a project using Go (Golang), RabbitMQ, and Docker, built with a layered architecture. It includes a Fibonacci sequence demonstration to illustrate the interaction between an API and a consumer. The API, built using the Gin framework, accepts a number as input, and the consumer processes the calculation.
 
